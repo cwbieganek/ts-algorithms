@@ -1,0 +1,17 @@
+{
+  "name": "@vitest/example-test",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "vitest": "latest",
+    "prettier": "latest",
+    "typescript": "latest"
+  }
+}
